@@ -8,7 +8,7 @@ Defaults to only Hard and Extreme corruptors; after first run a config file is c
 
 Install [BepInEx](https://across-the-obelisk.thunderstore.io/package/BepInEx/BepInExPack_AcrossTheObelisk/).
 
-Download the [latest release](https://github.com/stiffmeds/Challenging_Corruptors) and put it in your BepInEx _plugins_ folder.
+Download the [latest release](https://github.com/stiffmeds/Challenging_Corruptors/releases/latest) and put it in your BepInEx _plugins_ folder.
 
 ## Support
 
